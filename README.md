@@ -1,7 +1,7 @@
-[![Release](https://img.shields.io/github/release/bcgsc/transabyss.svg)](https://github.com/bcgsc/transabyss/releases)
-[![Downloads](https://img.shields.io/github/downloads/bcgsc/transabyss/total?logo=github)](https://github.com/bcgsc/transabyss/releases/download/2.0.1/transabyss-2.0.1.zip)
+[![Release](https://img.shields.io/github/release/BirolLab/transabyss.svg)](https://github.com/BirolLab/transabyss/releases)
+[![Downloads](https://img.shields.io/github/downloads/BirolLab/transabyss/total?logo=github)](https://github.com/BirolLab/transabyss/releases/download/2.0.1/transabyss-2.0.1.zip)
 [![Conda](https://img.shields.io/conda/dn/bioconda/transabyss?label=Conda)](https://anaconda.org/bioconda/transabyss)
-[![Issues](https://img.shields.io/github/issues/bcgsc/transabyss.svg)](https://github.com/bcgsc/transabyss/issues)
+[![Issues](https://img.shields.io/github/issues/BirolLab/transabyss.svg)](https://github.com/BirolLab/transabyss/issues)
 
 # Trans-ABySS
 ## *De novo* assembly of RNAseq data using ABySS
@@ -13,7 +13,7 @@ Copyright 2018 Canada's Michael Smith Genome Sciences Centre, BC Cancer
 Please use our [Google Group](mailto:trans-abyss@googlegroups.com) for [discussions and
 support](https://groups.google.com/d/forum/trans-abyss).
   
-You may also create [issues](https://github.com/bcgsc/transabyss/issues) on our GitHub repository.
+You may also create [issues](https://github.com/BirolLab/transabyss/issues) on our GitHub repository.
 
 If you use Trans-ABySS, please cite:
 
@@ -22,7 +22,7 @@ If you use Trans-ABySS, please cite:
 --------------------------------------------------------------------------------
 
 Program requirements for `transabyss` and `transabyss-merge`:
-  * [ABySS 2.0.x](https://github.com/bcgsc/abyss/releases)
+  * [ABySS 2.0.x](https://github.com/BirolLab/abyss/releases)
   * [Python 2.7.x](https://www.python.org/download/releases/2.7.14/) or [Python 3.6.x](https://www.python.org/download/releases/3.6.4/)
   * [python-igraph 0.7.x](http://igraph.org/python/#downloads)
   * [BLAT](http://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/blat/blat)
