@@ -22,7 +22,7 @@ The Trans-ABySS package has 2 main applications:
 
 Please use our Google Group <trans-abyss@googlegroups.com> for discussions and support. Existing topics can be viewed at <https://groups.google.com/d/forum/trans-abyss>.
   
-You may also create issues on our GitHub repository at <https://github.com/bcgsc/transabyss/issues>.
+You may also create issues on our GitHub repository at <https://github.com/BirolLab/transabyss/issues>.
 
 ----
 
